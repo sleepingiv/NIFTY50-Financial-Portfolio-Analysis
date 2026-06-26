@@ -21,5 +21,3 @@ Advise a high-net-worth wealth management client on capital allocation between t
 
 - Capital Allocation: Allocate the majority of the portfolio to ICICI Bank, as it mathematically proves to be the most efficient asset in the analyzed cohort.
 - Entry Strategy: Utilize the programmed 50-Day Moving Average tracker to identify technical entry points (buy signals) to maximize long-term yield when entering the position.
-Capital Allocation: Allocate the majority of the portfolio to ICICI Bank, as it mathematically proves to be the most efficient asset in the analyzed cohort.
-Entry Strategy: Utilize the programmed 50-Day Moving Average tracker to identify technical entry points (buy signals) to maximize long-term yield when entering the position.
